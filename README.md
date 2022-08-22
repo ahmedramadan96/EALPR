@@ -3,10 +3,6 @@
 
 Samples from  EALPR Vehicle images
 
-
-
-A. R. Youssef, F. R. Sayed and A. A. Ali, "A New Benchmark Dataset for Egyptian License Plate Detection and Recognition," 2022 7th Asia-Pacific Conference on Intelligent Robot Systems (ACIRS), 2022, pp. 106-111, doi: 10.1109/ACIRS55390.2022.9845514.
-
 ## Citation 
 
 Please cite EALPR-Dataset in your publications if it helps your research:
